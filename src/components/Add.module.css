@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    align-items: center;
+}
+
+form input{
+    background-color: #eceaea;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    height: 1.5rem;
+}
+
+form button{
+    background-color: #4747b8;
+    color: white;
+    font-weight: bold;
+    font-size: 0.9rem;
+    border: none;
+    border-radius: 3px;
+    height: 1.8rem;
+    width: 3rem;
+}
